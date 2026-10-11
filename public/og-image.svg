@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f7f8fa"/>
+  <circle cx="1030" cy="120" r="260" fill="#e9edff"/>
+  <circle cx="1060" cy="510" r="220" fill="#efecff"/>
+  <text x="100" y="210" fill="#626ee8" font-family="Arial,sans-serif" font-size="22" letter-spacing="5">PORTFOLIO · 2026</text>
+  <text x="100" y="310" fill="#18202e" font-family="Arial,sans-serif" font-size="62" font-weight="700">Murali Krishna</text>
+  <text x="100" y="385" fill="#18202e" font-family="Arial,sans-serif" font-size="62" font-weight="700">Ponnaganti</text>
+  <text x="100" y="460" fill="#586273" font-family="Arial,sans-serif" font-size="26">Data Analyst · Python Developer · AI Enthusiast</text>
+</svg>
